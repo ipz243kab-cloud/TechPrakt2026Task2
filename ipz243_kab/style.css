@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #f2f4f8;
+    color: #222;
+}
+
+header {
+    background-color: #2f6fed;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+main {
+    width: 90%;
+    max-width: 1000px;
+    margin: 30px auto;
+}
+
+.news-card {
+    background-color: white;
+    margin-bottom: 25px;
+    padding: 20px;
+    border-radius: 12px;
+}
+
+.news-card img {
+    width: 100%;
+    max-height: 300px;
+    object-fit: cover;
+    border-radius: 10px;
+}
