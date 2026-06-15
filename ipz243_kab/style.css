@@ -31,3 +31,15 @@ main {
     object-fit: cover;
     border-radius: 10px;
 }
+.news-card h2 {
+    color: #1d4ed8;
+}
+
+.news-card p {
+    line-height: 1.6;
+}
+
+.news-card:hover {
+    transform: scale(1.01);
+    transition: 0.3s;
+}
