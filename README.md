@@ -6,3 +6,4 @@
 
 * Корнієнко Анастасія, група ІПЗ-24-3
 
+* Email: ipz243_kab@student.ztu.edu.ua
