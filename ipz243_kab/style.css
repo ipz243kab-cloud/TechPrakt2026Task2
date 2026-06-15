@@ -43,3 +43,10 @@ main {
     transform: scale(1.01);
     transition: 0.3s;
 }
+header p {
+    font-size: 18px;
+}
+
+.news-card {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+}
